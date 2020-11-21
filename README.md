@@ -1,14 +1,25 @@
 ### Hi there 👋
 
-👨🏻‍💻 About Me
-🤔   Exploring new technologies and developing software solutions and quick hacks.
-💼   Working as a Full Stack and DevOps Engineer at Spitzer and RISC Sistemas em Saúde.
-🌱   Learning more about Cloud Architecture, IaC and Sofware Development.
-🛠 Tech Stack
-🚜   Java Script | Golang | VB6 
-💻   Docker | Ansible | Terraform | Kubernetes | Packer
-🛢   Postgres | SQL Server | Mongo DB
-🔧   Git | Markdown
+- 👨🏻‍💻 About Me
+
+- 🤔   Exploring new technologies and developing software solutions and quick hacks.
+- 💼   Working as a Full Stack and DevOps Engineer at Spitzer and RISC Sistemas em Saúde.
+- 🌱   Learning more about Cloud Architecture, IaC and Sofware Development.
+- 🛠 Tech Stack
+- 🚜   Java Script | Golang | VB6 
+- 💻   Docker | Ansible | Terraform | Kubernetes | Packer
+- 🛢   Postgres | SQL Server | Mongo DB
+- 🔧   Git | Markdown
+
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/acampagnaro/acampagnaro)
+
+[![forthebadge made-with-golang](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.golang.org/)
+
+[![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=acampagnaro&theme=blue-green)](https://github.com/acampagnaro/github-readme-stats)
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=acampagnaro&theme=blue-green)
 
 <!--
 **acampagnaro/acampagnaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,3 +35,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
