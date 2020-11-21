@@ -13,8 +13,6 @@
 
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/acampagnaro/acampagnaro)
 
-[![forthebadge made-with-golang](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.golang.org/)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=acampagnaro&theme=blue-green)](https://github.com/acampagnaro/github-readme-stats)
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=acampagnaro&theme=blue-green)
