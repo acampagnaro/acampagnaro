@@ -15,8 +15,6 @@
 
 [![forthebadge made-with-golang](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.golang.org/)
 
-[![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](http://golang.org)
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=acampagnaro&theme=blue-green)](https://github.com/acampagnaro/github-readme-stats)
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=acampagnaro&theme=blue-green)
