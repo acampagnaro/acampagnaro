@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+👨🏻‍💻 About Me
+🤔   Exploring new technologies and developing software solutions and quick hacks.
+💼   Working as a Full Stack and DevOps Engineer at Spitzer and RISC Sistemas em Saúde.
+🌱   Learning more about Cloud Architecture, IaC and Sofware Development.
+🛠 Tech Stack
+🚜   Java Script | Golang | VB6 
+💻   Docker | Ansible | Terraform | Kubernetes | Packer
+🛢   Postgres | SQL Server | Mongo DB
+🔧   Git | Markdown
+
 <!--
 **acampagnaro/acampagnaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
